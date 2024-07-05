@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "./static/css/main.fd4f0a9e.css",
-    "main.js": "./static/js/main.b1a7865e.js",
+    "main.js": "./static/js/main.e6aa9cda.js",
     "static/media/anigah-sample.jpg": "./static/media/anigah-sample.fb22af44c5571cb153cf.jpg",
     "static/media/sayehban-sample.jpg": "./static/media/sayehban-sample.abe83bf8fd78b2be74e7.jpg",
     "static/media/neginrose-sample.jpg": "./static/media/neginrose-sample.97b847500a85f6db4f36.jpg",
     "static/media/hiva-sample.jpg": "./static/media/hiva-sample.437d4ffa309bfd5e59ce.jpg",
     "static/media/minak-sample.jpg": "./static/media/minak-sample.df8b462720d684f10e84.jpg",
-    "static/media/Cv-FarimahChiani.pdf": "./static/media/Cv-FarimahChiani.b16353755cb176dd59b0.pdf",
+    "static/media/nikan.jpg": "./static/media/nikan.f0cbac2fa502c4b91b68.jpg",
+    "static/media/FarimahChiani-CV.pdf": "./static/media/FarimahChiani-CV.5297e18eea0f353853f5.pdf",
     "static/media/farimah.jpg": "./static/media/farimah.3596551ba62d7e5695f0.jpg",
     "static/media/farimah-p.jpg": "./static/media/farimah-p.a4ef36c19288624d80d0.jpg",
     "static/media/service-1.svg": "./static/media/service-1.cf1ed095ef4b3f923356075cee1bc398.svg",
     "static/media/back.png": "./static/media/back.90dadaa0c9e0d8bea218.png",
-    "static/media/service-3.svg": "./static/media/service-3.a324186e2cfcc11f1ad1ea2c0a4ffa55.svg",
     "static/media/service-2.svg": "./static/media/service-2.5c151f1353d4629154fbf0e537115128.svg",
+    "static/media/service-3.svg": "./static/media/service-3.d751e59c17162367d6b237628f864075.svg",
     "index.html": "./index.html",
     "main.fd4f0a9e.css.map": "./static/css/main.fd4f0a9e.css.map",
-    "main.b1a7865e.js.map": "./static/js/main.b1a7865e.js.map"
+    "main.e6aa9cda.js.map": "./static/js/main.e6aa9cda.js.map"
   },
   "entrypoints": [
     "static/css/main.fd4f0a9e.css",
-    "static/js/main.b1a7865e.js"
+    "static/js/main.e6aa9cda.js"
   ]
 }
