@@ -105,7 +105,11 @@
   }
 
   .mobile-menu a {
-    @apply text-sm font-medium text-text-secondary uppercase tracking-widest py-2 border-b border-cream-200;
+    @apply text-sm font-medium text-text-secondary uppercase tracking-widest pt-2;
+  }
+
+  .mobile-menu a:not(:last-child) {
+    @apply py-2 border-b border-cream-200
   }
 
   /* =============================================

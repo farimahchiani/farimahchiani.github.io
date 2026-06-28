@@ -709,11 +709,7 @@ nav {
 }
 
 .mobile-menu a {
-  border-bottom-width: 1px;
-  --tw-border-opacity: 1;
-  border-color: rgb(245 232 204 / var(--tw-border-opacity, 1));
   padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
   font-size: 0.875rem;
   line-height: 1.25rem;
   font-weight: 500;
@@ -721,6 +717,14 @@ nav {
   letter-spacing: 0.1em;
   --tw-text-opacity: 1;
   color: rgb(74 62 44 / var(--tw-text-opacity, 1));
+}
+
+.mobile-menu a:not(:last-child) {
+  border-bottom-width: 1px;
+  --tw-border-opacity: 1;
+  border-color: rgb(245 232 204 / var(--tw-border-opacity, 1));
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 /* =============================================
