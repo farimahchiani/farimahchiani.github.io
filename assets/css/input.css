@@ -46,12 +46,18 @@
 
 @layer base {
   img {
-    -webkit-user-drag: none;
     user-select: none;
+    -webkit-user-select: none;
+
+    -webkit-user-drag: none;
   }
 }
 
 ::selection {
+  @apply bg-green-100 text-text-primary;
+}
+
+::-moz-selection {
   @apply bg-green-100 text-text-primary;
 }
 

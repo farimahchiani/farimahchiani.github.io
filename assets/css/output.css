@@ -578,10 +578,10 @@ a {
 }
 
 img {
-  -webkit-user-drag: none;
+  -moz-user-select: none;
+       user-select: none;
   -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
+  -webkit-user-drag: none;
 }
 
 nav {
@@ -1990,6 +1990,13 @@ footer {
 }
 
 ::selection {
+  --tw-bg-opacity: 1;
+  background-color: rgb(212 226 208 / var(--tw-bg-opacity, 1));
+  --tw-text-opacity: 1;
+  color: rgb(26 21 16 / var(--tw-text-opacity, 1));
+}
+
+::-moz-selection {
   --tw-bg-opacity: 1;
   background-color: rgb(212 226 208 / var(--tw-bg-opacity, 1));
   --tw-text-opacity: 1;
