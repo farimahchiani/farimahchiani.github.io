@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-green-theme",
+  "version": "1.0.0",
+  "description": "Farimah Chiani Portfolio — Green & Cream Theme",
+  "scripts": {
+    "dev": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "build": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}
