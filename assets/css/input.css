@@ -44,6 +44,17 @@
   }
 }
 
+@layer base {
+  img {
+    -webkit-user-drag: none;
+    user-select: none;
+  }
+}
+
+::selection {
+  @apply bg-green-100 text-text-primary;
+}
+
 /* =============================================
    LAYER 1: NAVIGATION
 ============================================= */
